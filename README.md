@@ -1,2 +1,2 @@
 # Portfolio-project
-This is portfolio project uses html and css only
+This is portfolio project using html and css only

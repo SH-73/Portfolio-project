@@ -1,0 +1,39 @@
+input[type="text"],input[type="number"]{
+    width: 50%;
+    padding: 12px 20px;gd
+    margin: 8px 0;
+    display: flex;
+    border: 3px solid rgb(122, 7, 7);
+    border-radius: 4px;
+}
+input[type="Submit"],input[type="Reset"]{
+    width: 50%;
+    padding: 6px 12px;
+    margin: 15px 0 10px;
+    display: inline-block;
+    border: none;
+    border-radius: 30px;
+    font-size: 1rem;
+    cursor: pointer;
+    outline: none;
+}
+input[type="Submit"]:hover{
+    color: #07487e;
+}
+input[type="Reset"]:hover{
+    color: #0e395c;
+}
+button{
+   width: 20%;
+    padding: 10px 12px;
+    margin: 15px 0 10px;
+    display: inline-block;
+    border: none;
+    border-radius: 30px;
+    font-size: 1rem;
+    cursor: pointer;
+    outline: none; 
+}
+button:hover{
+    background-color: #2477bb;
+}
